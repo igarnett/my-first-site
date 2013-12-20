@@ -1,0 +1,68 @@
+<!DOCTYPE HTML5>
+<head>
+	<title>FirstSite</title>
+	<link rel="stylesheet" type="text/css"  href="styles.css">
+</head>
+
+<body>
+
+<div id="header">
+	<div id="nav">
+	  <ul>
+	  <li><a href="#"><img src="images/home.png" alt="body" /></a> </li>
+	  <li><a href="#"><img src="images/drops.png" alt="body" /></a> </li>
+	  <li><a href="portfolio.html"><img src="images/portfolio.png" alt="body"/></a> </li>
+	  <li><a href="#"><img src="images/fullwidth.png" alt="body"/></a> </li>
+	  <li><a href="#"><img src="images/archives.png" alt="body"/></a> </li>  
+	  <li><a href="#"><img src="images/blog.png" alt="body"/></a> </li> 
+	  <li><a href="#"><img src="images/contact.png" alt="body"/></a> </li> 
+	  </ul>
+	</div>
+</div>
+
+
+
+
+<div id="content">
+ <div class="scroll" alt="scroll"></div>
+	<div class="sidetext">
+	<p>Aenean lacinia bibendum nulla sed consectetur. Cras mattis consectetur purus sit amet fermentum. 
+	Donec id elit non mi porta gravida at eget. <br> <br> 
+Vestibulum id ligula porta felis euismod semper. Donec ullamcorper nulla non metus auctor fringilla.</p> </div>
+	 <div id="rw">
+	 <div class="rwlogo"><img src="images/rwlogo.png" alt="rwlogo"/>
+	  <div class="dotted"><img src="images/rwdottedline.png" alt="dotted"/></div>
+	  <div class="rwprjt1"><a href="portfolio.html"><img src="images/recntwork1.png" alt="rw1"/></a></div>
+	  <div class="rwprjt2"><a href="#"><img src="images/rw2.png" alt="rw2"/></a></div>
+	  <div class="rwprjt3"><a href="#"><img src="images/rw3.png" alt="rw3"/></a></div>
+	<div class="rwprjt4"><a href="#"><img src="images/rw4.png" alt="rw4"/></a></div>
+	 </div>
+	 <div class="rwprjt1info"><a href="portfolio.html"><img src="images/rwb1.png" alt="rwprjt1info"/></a></div>
+	  <div class="rwprjt2info"><a href="portfolio.html"><img src="images/rwb2.png" alt="rwprjt2info"/></a></div>
+	  <div class="rwprjt3info"><a href="portfolio.html"><img src="images/rwb3.png" alt="rwprjt3info"/></a></div>
+	  <div class="rwprjt4info"><a href="portfolio.html"><img src="images/rwb4.png" alt="rwprjt4info"/></a></div> 
+	 </div>
+	 <div class="dotted2"><img src="images/rwbdottedline.png" alt="dotted2"/></div>
+	 
+	
+
+
+</div>
+
+
+
+
+<div id="footer">
+   <div class="lw"> 
+   <div class="LWlogo"><img src="images/lplogo.png" alt="LatestPost"><div/>
+   <div class="lpdotted"><img src="images/lpdottedline.png" alt="lpdottedline"><div/>
+   </div>
+
+</div>
+
+
+</div>
+
+</body>
+
+</html>
